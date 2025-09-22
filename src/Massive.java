@@ -4,7 +4,7 @@ public class Massive {
         int[] numbers = new int[5];
 
         // Присваиваем значения элементам массива
-        numbers[0] = 10;
+        numbers[0] = 101111;
         numbers[1] = 20;
         numbers[2] = 30;
         numbers[3] = 40;
