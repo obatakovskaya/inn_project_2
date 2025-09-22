@@ -5,8 +5,6 @@
 [1, 3, 5, 7, 9]
  */
 
-import java.util.Arrays;
-
 import static java.util.Arrays.binarySearch;
 
 //public static int binarySearch(int[] arr, int target) {
@@ -24,7 +22,7 @@ import static java.util.Arrays.binarySearch;
 //}
 
 
-public class Binar {
+public class B1 {
     public static void main(String[] args) {
         int[] sortedArray = {1, 3, 5, 7, 9}; // Отсортированный массив
         int targetNumber = 5;                // Целевое число для поиска
